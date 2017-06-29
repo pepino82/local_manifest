@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- add github as a remote source -->
+    <remote name="github" fetch="git://github.com" />
+    
+    
